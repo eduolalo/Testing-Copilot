@@ -62,7 +62,6 @@ node_modules
 README.md
 EOL
 
-
 # Hacer el build de la imagen usando Podman
 echo "Construyendo la imagen de Docker con el tag '$PROJECT_NAME'..."
 # Usa --tag en lugar de -t para mayor claridad
